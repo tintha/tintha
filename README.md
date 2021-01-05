@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I recently made a career shift to pursue my passion for Web Development.
-
 I just graduated from Concordia University’s Full-Stack Web Development Program.
 
 <!--
