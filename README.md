@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I just graduated from Concordia University’s Full-Stack Web Development Program.
-
 <!--
 **tintha/tintha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
